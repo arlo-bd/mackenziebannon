@@ -9,7 +9,7 @@
 **Operating Systems:** </br>
   Linux (Kali, CentOS7, RockyLinux, etc.), Windows </br>
 **Interests/Hobbies:** </br>
-  Cybersecurity, Computer Networking, Steganography, Game Development, Research/Information Gathering/Learning
+  Cybersecurity, Computer Networking, Steganography, Game Development, Research/Information Gathering/Learning </br>
 **Highlighted Projects:** </br> 
 </br>
 JUnit Testing of a Given Online Auction System </br>
