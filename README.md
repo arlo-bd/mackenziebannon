@@ -19,7 +19,8 @@
 1. JUnit Testing of a Given Online Auction System </br>
    - https://github.com/mackenziebannon/testing-auction-system </br>
 2. Palindrome Checker (Verify a Given String of Characters is a Palindrome) </br>
-   - https://github.com/mackenziebannon/palindrome-checker </br>
+   - https://github.com/mackenziebannon/palindrome-checker 
+</br>
 **Side Projects (Planned):** </br>
 1. Video Game - all the sound in the game is recorded with my own voice
    - theme of game: frogs
