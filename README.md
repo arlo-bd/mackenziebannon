@@ -10,10 +10,9 @@
   Linux (Kali, CentOS7, RockyLinux, etc.), Windows </br>
 **Interests/Hobbies:** </br>
   Cybersecurity, Computer Networking, Steganography, Game Development, Research/Information Gathering/Learning </br>
+  </br>
 **Highlighted Projects:** </br> 
-</br>
-JUnit Testing of a Given Online Auction System </br>
-https://github.com/mackenziebannon/testing-auction-system </br>
-</br>
-Palindrome Checker (Verify a Given String of Characters is a Palindrome) </br>
-https://github.com/mackenziebannon/palindrome-checker
+1. JUnit Testing of a Given Online Auction System </br>
+   - https://github.com/mackenziebannon/testing-auction-system </br>
+2. Palindrome Checker (Verify a Given String of Characters is a Palindrome) </br>
+   - https://github.com/mackenziebannon/palindrome-checker
