@@ -20,3 +20,12 @@
    - https://github.com/mackenziebannon/testing-auction-system </br>
 2. Palindrome Checker (Verify a Given String of Characters is a Palindrome) </br>
    - https://github.com/mackenziebannon/palindrome-checker
+**Side Projects (Planned):** </br>
+1. Video Game - all the sound in the game is recorded with my own voice
+   - theme of game: frogs
+   - goal of game: exploration style game? puzzle game? 
+   - game length: short, 15-20 minutes to complete (or if level based, a cap of 20(?) levels)
+   - brainstorming:
+     - frog exploring in the woods
+     - trying to find a the path to the biggest lily pad?
+     - frog is the main character of an rpg game where they have to [...]???
