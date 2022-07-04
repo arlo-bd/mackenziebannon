@@ -8,7 +8,6 @@
   MySQL </br>
 **Operating Systems:** </br>
   Linux (Kali, CentOS7, RockyLinux, etc.), Windows </br>
-</br>
 **Interests/Hobbies:** </br>
   Cybersecurity, Computer Networking, Steganography, Game Development, Research/Information Gathering/Learning
 **Highlighted Projects:** </br> 
