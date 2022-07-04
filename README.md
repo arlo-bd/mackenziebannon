@@ -1,7 +1,7 @@
 ### Mackenzie Bannon </br>
 #### Co-Op Computer Science Student at Dalhousie University </br>
 </br>
-###### Current Languages: </br>
+##### Current Languages: </br>
   Java, HTML, PHP, CSS, JavaScript, SQL, YAML, Python </br>
 ###### Tools: 
   Git, GitHub, Ansible, SecurityOnion, VMWare Player ESXI </br>
