@@ -1,4 +1,4 @@
-## Mackenzie Bannon </br>
+## Arlo Bannon-David </br>
 ### Co-Op Computer Science Student at Dalhousie University </br>
 **Current Languages:** </br>
   Java, HTML, PHP, CSS, JavaScript, SQL, YAML, Python </br>
